@@ -20,6 +20,6 @@ Je me suis inspirer du tuto suivant pour réaliser cette application:
 
 ## Photo de l'application:
 
-![image](/capture-ecran.jpg)
+![image](/capture-ecran.png)
 
 
