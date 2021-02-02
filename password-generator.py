@@ -10,6 +10,11 @@ def generate_password():
     password = "".join(choice(all_chars) for x in range(randint(password_min, password_max)))
     password_entry.delete(0,END)
     password_entry.insert(0,password)
+    
+    with open("password.txt","a+") as file:
+        
+        file.write(password+"\n")
+        file.close()
 
 #créer une fenetre
 
