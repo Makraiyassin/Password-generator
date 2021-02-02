@@ -1,6 +1,7 @@
 # Password-generator
 
 Ce projet est une app simple permettant de générer des mots de passe entre 8 et 12 caractère comprenant des magiscule, miniscule, chiffre et caractère spéciaux.
+Lorsqu'un mot de pass est generer, l'application crée un fichier text ou ajoute dans un fichier text déjà existant le mot de pass généré.
 
 ## Commencer
 
